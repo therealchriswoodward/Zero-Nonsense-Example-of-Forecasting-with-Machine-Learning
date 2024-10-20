@@ -6,14 +6,15 @@ A zero-nonsense example of forecasting future data with machine learning.
 
 Forecasting means you predict where you are about to be. If you have some sales data, you can forecast into the future what is likely to happen
 ## Machine Learning:
-***
+
 In this project, Linear Regression is used to capture the trend of the data
 ***
 # The Data:
 
 I used arbitrary data in this project. It is a small dataset.
-# What Happens in The Project:
 ***
+# What Happens in The Project:
+
 A prediction is made based on the historical data. The model is trained and used to make a prediction with 95% confidence. I show clear visualization
 
 I demonstrate model selection, model training, model evaluation, checking assumptions, making predictions, forecasting forward, complex problem-solving, confidence interval calculating, Advanced Python Skills, Advanced Visualization Skills, and clear communication skills.
