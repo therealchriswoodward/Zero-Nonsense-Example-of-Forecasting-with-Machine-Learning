@@ -29,7 +29,7 @@ I have two goals:
 # About Me:
 
 
-I'm Chris Woodward. I am currently seeking opportunities in Florida for data analysis/data science. I am very open to remote work and willing to relocate to another area in Florida under the right circumstances. My salary goal is $70,000 (not including benefits) for data analyst role and higher for a data science role.
+I'm Chris Woodward. I am currently seeking opportunities in Florida for data analysis/data science. I am very open to remote work and willing to relocate to another area in Florida under the right circumstances.
 
 You can see all my efforts for continuous learning on my LinkedIn.
 
